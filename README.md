@@ -1,0 +1,1 @@
+It is a back-end system designed to be integrated into any front-end interface, providing a seamless content management experience. This system uses Azure cloud services such as storage, notification, etc.
